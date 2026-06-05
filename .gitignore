@@ -1,0 +1,14 @@
+# Ignore compiler build outputs
+Debug/
+Release/
+*.elf
+*.bin
+*.map
+*.hex
+*.o
+*.su
+*.d
+
+# Ignore local IDE settings unique to your specific machine
+.settings/
+.launches/
