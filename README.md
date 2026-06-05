@@ -34,12 +34,10 @@ The physical green user LED (**LD2**) on the NUCLEO-L073RZ is permanently wired 
 │       └── main.c
 ├── .gitignore
 └── README.md
+
 Toolchain & Development Environment
 IDE: STM32CubeIDE v2.1.1 (Linux Environment)
-
 Compiler: GNU Tools for ARM Embedded Processors (arm-none-eabi-gcc)
-
 Debugger: ST-LINK/V2-1 onboard programmer via GDB Server over SWD (Serial Wire Debug)
-
 Hardware: NUCLEO-L073RZ Development Board
 EOF
